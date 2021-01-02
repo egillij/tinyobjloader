@@ -7,8 +7,8 @@ project "TinyObjLoader"
 	
 	files
 	{
-		"tinyobjloader.cc",
-		"tinyobjloader.h"
+		"tiny_obj_loader.cc",
+		"tiny_obj_loader.h"
 	}
 	
 	filter "system:windows"
